@@ -1,0 +1,18 @@
+{
+  "users": [],
+  "auth_tokens": [
+    {
+      "token_hash": "8372d869f7d8f19194d1a322a783e0b332bd4d153462508d75798450a43e92d3",
+      "email": "martin173@onet.eu",
+      "kind": "reset_password",
+      "expires_at": "2026-01-18T17:43:08.071Z",
+      "created_at": "2026-01-18T17:13:08.071Z"
+    }
+  ],
+  "ads": [],
+  "reports": [],
+  "contacts": [],
+  "ad_slots": [],
+  "ad_creatives": [],
+  "ad_events": []
+}
